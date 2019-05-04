@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Nov 28 16:10:31 2018
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Full Version
+Revision Name : top_cymometer
+Top-level Entity Name : top_cymometer
+Family : Cyclone IV E
+Total logic elements : 5,999
+    Total combinational functions : 4,180
+    Dedicated logic registers : 2,584
+Total registers : 2584
+Total pins : 18
+Total virtual pins : 0
+Total memory bits : 323,584
+Embedded Multiplier 9-bit elements : 6
+Total PLLs : 0

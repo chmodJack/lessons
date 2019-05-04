@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Sep 18 10:46:00 2018
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Full Version
+Revision Name : top_remote_rcv
+Top-level Entity Name : top_remote_rcv
+Family : Cyclone IV E
+Total logic elements : 1,242
+    Total combinational functions : 899
+    Dedicated logic registers : 810
+Total registers : 810
+Total pins : 18
+Total virtual pins : 0
+Total memory bits : 131,072
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
